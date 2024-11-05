@@ -1,8 +1,6 @@
 
   
-[Banner profesional de GitHub_20241104_194636_0000](https://github.com/user-attachments/assets/6ca930f0-d937-4b1f-94b9-873c27f7d1cf)
-
-
+![Banner profesional de GitHub_20241104_194636_0000] (https://github.com/user-attachments/assets/6ca930f0-d937-4b1f-94b9-873c27f7d1cf)
 
 # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> Soy Estudiante de Desarrollo de software, autodidacta desde el 2024. 
 
@@ -38,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="http://www.github.com/jenalydev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jenalydev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jenalydev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jenalydev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ### Comprame un Café 
