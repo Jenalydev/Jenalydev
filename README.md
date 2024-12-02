@@ -1,7 +1,6 @@
+![Banner profesional Github 2_20241202_001608_0000](https://github.com/user-attachments/assets/0a2907c7-5c4b-4222-a9b6-7d1ebfe30d0c)
 
   
-![2_20241107_163942_0001](https://github.com/user-attachments/assets/ccf7eaa0-4747-4878-850e-1435d30f6b1e)
-
 
 
 # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> Soy Estudiante de Desarrollo de software, autodidacta desde el 2024. 
