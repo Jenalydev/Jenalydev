@@ -6,7 +6,7 @@
 # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> Soy Estudiante de Desarrollo de software, autodidacta desde el 2024. 
 
 
-## Actualmente aprendo Html, Css y Javascript y me preparo para formalizar mis estudios en una universidad proximamente.
+## Actualmente aprendo y profundizo Javascript, mientras me convierto en desarrolladora fullstack
 
 En mi Github encontrarás mis proyectos y colaboraciones, echales un vistazo!
 
